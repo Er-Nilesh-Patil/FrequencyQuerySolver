@@ -1,0 +1,15 @@
+D:\FrequencyQuerySolverProject\FrequencyQuerySolver\FrequencyQuerySolver\bin\Debug\net7.0\FrequencyQuerySolver.exe
+D:\FrequencyQuerySolverProject\FrequencyQuerySolver\FrequencyQuerySolver\bin\Debug\net7.0\FrequencyQuerySolver.deps.json
+D:\FrequencyQuerySolverProject\FrequencyQuerySolver\FrequencyQuerySolver\bin\Debug\net7.0\FrequencyQuerySolver.runtimeconfig.json
+D:\FrequencyQuerySolverProject\FrequencyQuerySolver\FrequencyQuerySolver\bin\Debug\net7.0\FrequencyQuerySolver.dll
+D:\FrequencyQuerySolverProject\FrequencyQuerySolver\FrequencyQuerySolver\bin\Debug\net7.0\FrequencyQuerySolver.pdb
+D:\FrequencyQuerySolverProject\FrequencyQuerySolver\FrequencyQuerySolver\obj\Debug\net7.0\FrequencyQuerySolver.csproj.AssemblyReference.cache
+D:\FrequencyQuerySolverProject\FrequencyQuerySolver\FrequencyQuerySolver\obj\Debug\net7.0\FrequencyQuerySolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\FrequencyQuerySolverProject\FrequencyQuerySolver\FrequencyQuerySolver\obj\Debug\net7.0\FrequencyQuerySolver.AssemblyInfoInputs.cache
+D:\FrequencyQuerySolverProject\FrequencyQuerySolver\FrequencyQuerySolver\obj\Debug\net7.0\FrequencyQuerySolver.AssemblyInfo.cs
+D:\FrequencyQuerySolverProject\FrequencyQuerySolver\FrequencyQuerySolver\obj\Debug\net7.0\FrequencyQuerySolver.csproj.CoreCompileInputs.cache
+D:\FrequencyQuerySolverProject\FrequencyQuerySolver\FrequencyQuerySolver\obj\Debug\net7.0\FrequencyQuerySolver.dll
+D:\FrequencyQuerySolverProject\FrequencyQuerySolver\FrequencyQuerySolver\obj\Debug\net7.0\refint\FrequencyQuerySolver.dll
+D:\FrequencyQuerySolverProject\FrequencyQuerySolver\FrequencyQuerySolver\obj\Debug\net7.0\FrequencyQuerySolver.pdb
+D:\FrequencyQuerySolverProject\FrequencyQuerySolver\FrequencyQuerySolver\obj\Debug\net7.0\FrequencyQuerySolver.genruntimeconfig.cache
+D:\FrequencyQuerySolverProject\FrequencyQuerySolver\FrequencyQuerySolver\obj\Debug\net7.0\ref\FrequencyQuerySolver.dll
